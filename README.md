@@ -14,7 +14,6 @@ A simple Spring Boot REST API for managing student data using JDBC and MySQL.
 - Add student
 - Get all students
 - Get student by name
-- Delete student by roll number
 
 ## API Endpoints
 - POST /students
