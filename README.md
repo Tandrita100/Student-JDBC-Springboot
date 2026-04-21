@@ -2,7 +2,7 @@
 
 A simple Spring Boot REST API for managing student data using JDBC and MySQL.
 
-## Tech Stack
+# Tech Stack
 - Java
 - Spring Boot
 - Spring JDBC (JdbcTemplate)
@@ -10,15 +10,15 @@ A simple Spring Boot REST API for managing student data using JDBC and MySQL.
 - Postman
 - Maven
 
-## Features
+# Features
 - Add student
 - Get all students
 - Get student by name
 
-## API Endpoints
+# API Endpoints
 - POST /students
 - GET /students
 - GET /students/{name}
 
-## Purpose
+# Purpose
 This project was built for learning Spring Boot and JDBC integration.
