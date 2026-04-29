@@ -22,3 +22,5 @@ A simple Spring Boot REST API for managing student data using JDBC and MySQL.
 
 # Purpose
 This project was built for learning Spring Boot and JDBC integration.
+
+this is for practice
