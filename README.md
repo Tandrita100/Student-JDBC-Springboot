@@ -1,4 +1,4 @@
-gvgh j # Student Management REST API
+# Student Management REST API
 
 A simple Spring Boot REST API for managing student data using JDBC and MySQL.
 
